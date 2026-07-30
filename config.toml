@@ -1,6 +1,6 @@
-baseURL = 'https://cv.diogotc.com'
+baseURL = 'https://cv.willnunes.com'
 languageCode = 'en-us'
-title = 'CV | Diogo Correia'
+title = 'CV | Willian Nunes'
 disableKinds = ["taxonomy", "term"]
 
 defaultContentLanguage = 'en'
