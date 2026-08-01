@@ -1,4 +1,4 @@
-baseURL = 'https://cv.willnunes.com'
+baseURL = 'https://cvwillnunes.netlify.app/'
 languageCode = 'en-us'
 title = 'CV | Willian Nunes'
 disableKinds = ["taxonomy", "term"]

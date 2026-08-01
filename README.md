@@ -1,6 +1,6 @@
 # Curriculum Vitae - Willian Nunes
 
-Why HTML? Because it can be easily [shared on the web](https://cv.willnunes.com)
+Why HTML? Because it can be easily [shared on the web](https://cvwillnunes.netlify.app/)
 
 ![CV Preview](.github/preview.png)
 
